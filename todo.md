@@ -6,7 +6,7 @@ Update this as you go along.
 
 - [ ] Setup basic moderation slash commands using COGS.
 - [ ] Setup bot.py to load all cogs.
-  - [ ] Start cracking!
+- [ ] Start cracking!
 
 ### In Progress
 
