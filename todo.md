@@ -5,13 +5,13 @@ Update this as you go along.
 ### Todo
 
 - [ ] Setup basic moderation slash commands using COGS.
-- [ ] Setup bot.py to load all cogs.
-- [ ] Start cracking!
+- [ ] Setup basic database api.
+- [ ] Setup basic commands.
 
 ### In Progress
 
-- [ ] Setting up bot.py
+- [ ] Database and database api.
 
 ### Done ✓
 
-### - [x] 
+- [x] Bot.py is finished.
